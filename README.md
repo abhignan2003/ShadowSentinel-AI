@@ -65,7 +65,8 @@ ShadowSentinel-AI/
 
 1. Install Wazuh & configure agent-server communication  
 2. Clone this repo:  
-   ```bash git clone https://github.com/abhignan2003/ShadowSentinel-AI.git
+   ```bash
+   git clone https://github.com/abhignan2003/ShadowSentinel-AI.git
 Install dependencies:
 
 pip install -r requirements.txt
