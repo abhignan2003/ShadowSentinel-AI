@@ -57,9 +57,7 @@ ShadowSentinel-AI/
 ├── README.md
 └── screenshots/ (demo visuals)
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -68,20 +66,13 @@ Edit
 1. Install Wazuh & configure agent-server communication  
 2. Clone this repo:  
    ```bash
-   git clone https://github.com/cherry2811/ShadowSentinel-AI.git
+Enter git clone https://github.com/abhignan2003/ShadowSentinel-AI.git
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Update email_config.py with your credentials
 
 Run Hazel or Realtime Monitor to begin protection
-
-📸 Demo & Screenshots
-Add screenshots or demo GIFs in /screenshots folder
-You can also embed a YouTube demo here (later)
 
 🧠 Tech Stack
 Python
@@ -103,8 +94,7 @@ Linux (Ubuntu, Kali)
 Email + Cron + Firewall
 
 📫 Contact
-GitHub: cherry2811, Abhignan2003
+GitHub: Abhignan2003, cherry2811
 
-Email: charanreddy098@gmail.com, abhignan2003@gmail.com
+Email: abhignan2003@gmail.com, charanreddy098@gmail.com
 
-LinkedIn: linkedin.com/in/charanreddy098
