@@ -103,8 +103,8 @@ Linux (Ubuntu, Kali)
 Email + Cron + Firewall
 
 📫 Contact
-GitHub: cherry2811
+GitHub: cherry2811, Abhignan2003
 
-Email: charanreddy098@gmail.com
+Email: charanreddy098@gmail.com, abhignan2003@gmail.com
 
 LinkedIn: linkedin.com/in/charanreddy098
